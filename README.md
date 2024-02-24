@@ -1,3 +1,5 @@
+Duplicate this repository in your own GitHub account (do not fork it). When you are finished, push your changes to your GitHub repository and send us the link.
+
 # Questions
 
 - [Question 1](./question1.md) - printing Pop Snap
