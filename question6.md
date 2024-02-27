@@ -1,4 +1,4 @@
-[#](#) Question 6
+# Question 6
 
 Here are two solutions to the problem: given an array of integers, find two numbers such that they add up to a specific target number.
 
